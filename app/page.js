@@ -44,15 +44,15 @@ export default function HomePage() {
 
   const showMessage = () => {
     alert(
-      'Yeayyy! Thank you Shushu sayang! Aku love you so much! 😘💕\n\nSekarang ayo kita plan date yang romantis! 🥰'
+      'Yeayyy! Thank you Shushu sayang! Biya love you so much! 😘💕\n\nSekarang ayo kita plan date yang romantis! 🥰'
     );
   };
 
   const showSurprise = () => {
     const surprises = [
-      '🍰 Aku udah pesan cake favorit kamu!',
-      '🌹 Bunga mawar udah di order buat kamu!',
-      '🎬 Movie night dengan film favorit kamu!',
+      '🍰 Biya udah pesan cake favorit chu!',
+      '🌹 Bunga mawar udah di order buat chu!',
+      '🎬 Movie night dengan film favorit chu!',
       '🍕 Pizza party cuma berdua kita!',
       '💆‍♀️ Massage session buat Shushu yang capek!',
       '🛍️ Shopping spree bareng di mall!',
@@ -63,7 +63,7 @@ export default function HomePage() {
     const randomSurprise =
       surprises[Math.floor(Math.random() * surprises.length)];
     alert(
-      'Surprise! ' + randomSurprise + '\n\nPilih mana yang kamu mau, sayang! 😍'
+      'Surprise! ' + randomSurprise + '\n\nPilih mana yang chu mau, sayang! 😍'
     );
   };
 
@@ -374,7 +374,7 @@ export default function HomePage() {
           <div className="header">
             <h1>{titleText}</h1>
             <p className="subtitle">
-              Dari yang lagi nyesel banget karena udah bikin kamu badmood
+              Dari yang lagi nyesel banget karena udah bikin chu badmood
             </p>
           </div>
 
@@ -382,43 +382,43 @@ export default function HomePage() {
           <div className="content">
             {/* Main Apology */}
             <div className="apology-card">
-              <h2>Aku tahu aku salah...</h2>
+              <h2>Biya tahu Biya salah...</h2>
               <p>
-                Shushu sayang, aku bener-bener minta maaf banget. Waktu kita
-                makan kemarin, aku terlalu fokus sama pekerjaan sampai aku cuek
-                sama kamu. Aku tahu kamu udah cape dan pengen quality time sama
-                aku, tapi malah aku bikin kamu badmood.
+                Shushu sayang, Biya bener-bener minta maaf banget. Waktu kita
+                makan kemarin, Biya terlalu fokus sama pekerjaan sampai Biya
+                cuek sama chu. Biya tahu chu udah cape dan pengen quality time
+                sama Biya, tapi malah Biya bikin chu badmood.
               </p>
               <p>
-                Aku sadar banget kalau sikap aku kemarin itu salah. Kamu lebih
-                penting dari pekerjaan apapun, dan aku harusnya kasih perhatian
-                penuh waktu kita lagi berduaan. Maafin aku ya sayang 😭
+                Biya sadar banget kalau sikap Biya kemarin itu salah. chu lebih
+                penting dari pekerjaan apapun, dan Biya harusnya kasih perhatian
+                penuh waktu kita lagi berduaan. Maafin Biya ya sayang 😭
               </p>
             </div>
 
             {/* Promises */}
             <div className="promise-list">
-              <h3>Janji-janji aku ke Shushu:</h3>
+              <h3>Janji-janji Biya ke Shushu:</h3>
               <div className="promise-item">
                 <span>
-                  Mulai sekarang, pas lagi makan bareng, HP aku bakal aku simpen
-                  jauh-jauh
+                  Mulai sekarang, pas lagi makan bareng, HP Biya bakal Biya
+                  simpen jauh-jauh
                 </span>
               </div>
               <div className="promise-item">
                 <span>
-                  Aku bakal kasih perhatian penuh ke kamu pas quality time
+                  Biya bakal kasih perhatian penuh ke chu pas quality time
                 </span>
               </div>
               <div className="promise-item">
                 <span>
-                  Kalau lagi ada pekerjaan urgent, aku bakal bilang dulu sama
-                  kamu
+                  Kalau lagi ada pekerjaan urgent, Biya bakal bilang dulu sama
+                  chu
                 </span>
               </div>
               <div className="promise-item">
                 <span>
-                  Aku bakal lebih appreciative sama effort kamu buat aku
+                  Biya bakal lebih appreciative sama effort chu buat Biya
                 </span>
               </div>
             </div>
@@ -447,7 +447,7 @@ export default function HomePage() {
                 >
                   🌟 Daily Reminder
                 </h4>
-                <p>Shushu adalah prioritas nomor 1 dalam hidup aku</p>
+                <p>Shushu adalah prioritas nomor 1 dalam hidup Biya</p>
               </div>
               <div className="love-note">
                 <h4
@@ -459,7 +459,7 @@ export default function HomePage() {
                 >
                   💌 Love Note
                 </h4>
-                <p>Maaf udah bikin kamu sedih, sayang. I love you so much!</p>
+                <p>Maaf udah bikin chu sedih, sayang. I love you so much!</p>
               </div>
             </div>
 
@@ -467,14 +467,14 @@ export default function HomePage() {
             <div className="apology-card">
               <h2>Sebagai permintaan maaf...</h2>
               <p>
-                Aku mau treat kamu makan di tempat favorit kamu, dan kali ini
-                aku janji bakal focus 100% sama kamu. Gak ada gangguan
+                Biya mau treat chu makan di tempat favorit chu, dan kali ini
+                Biya janji bakal focus 100% sama chu. Gak ada gangguan
                 pekerjaan, gak ada HP, cuma kita berdua aja.
               </p>
               <p>
-                Shushu, kamu tuh orang yang paling berharga dalam hidup aku. Aku
-                gak mau kehilangan kamu gara-gara sikap stupid aku. Please give
-                me another chance ya? 🥺
+                Shushu, chu tuh orang yang paling berharga dalam hidup Biya.
+                Biya gak mau kehilangan chu gara-gara sikap stupid Biya. Please
+                give me another chance ya? 🥺
               </p>
             </div>
 
@@ -484,7 +484,7 @@ export default function HomePage() {
                 className="btn btn-primary"
                 onClick={showMessage}
               >
-                Aku Maafin Kamu! 💕
+                Biya Maafin chu! 💕
               </button>
               <button
                 className="btn btn-secondary"
